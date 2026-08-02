@@ -277,6 +277,19 @@ notebook = {
     "joblib.dump(best_pipeline, MODEL_FILE)\n",
     "print(\"Model saved successfully.\")"
    ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 9. System Deployment (Streamlit App)\n",
+    "The XGBoost model trained above is serialized and deployed within a highly advanced **Cyber Threat Dashboard** built in Streamlit.\n",
+    "\n",
+    "### Features Include:\n",
+    "- **Vibrant Glassmorphism UI**: A dark, tech-inspired interface with glowing neon elements.\n",
+    "- **Plotly Radar Threat Matrix**: Visually breaks down the 'Fraud Probability' into vectors: Linguistic Risk, Missing Metadata, and Suspicious Requirements.\n",
+    "- **Batch Neural Analysis**: An enterprise feature allowing users to upload a `.csv` of jobs to scan them all simultaneously and download a generated **Threat Report**."
+   ]
   }
  ],
  "metadata": {
